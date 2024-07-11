@@ -18,4 +18,4 @@ Links:
 - [Nomad on Memory Alpha](https://memory-alpha.fandom.com/wiki/Nomad)
 
 ## Brainstorming and Design
-Since this project is in the brainstroming stage, updates will limited to the [Wiki](https://github.com/zxeltor/nomad/wiki)
+Since this project is in the brainstroming stage, updates will be limited to the [Wiki](https://github.com/zxeltor/nomad/wiki)
