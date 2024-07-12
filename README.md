@@ -1,7 +1,7 @@
 
 ![Nomad](images/NOMAD_scaled_whello.png)
 
-# Project Nomad
+# Project Nomad ![Nomad](https://img.shields.io/badge/stage-brainstorming-8A2BE2)
 
 This repo is going to document my journey towards building my own Star Trek Nomad probe.
 
