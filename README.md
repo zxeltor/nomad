@@ -9,9 +9,13 @@ This repo is going to document my journey towards building my own Star Trek Noma
 * [Brainstorming and Design](#brainstorming-and-design)
 
 ## Overview
-Being a kid and Star Trek fan in the late 70’s wasn’t easy. I grew up with 2 TV channels. I had to catch reruns of the original Star Trek series at 1:00am on Saturday nights. I’ve always been enamored with the episode: “The Changeling”
+If you’re a fan of the original Star Trek series, then you’re familiar with Nomad. It appeared in the episode: "The Changeling".
 
-Star Trek and Nomad led me to Electrical Engineering.
+Nomad was an old earth space probe which encountered another alien space probe, and merged with it. In the process, its programming was corrupted, and it evolved into a genocidal killing machine, with an imperative to destroy all "biological infestations" it deems to be imperfect.
+
+Captain Kirk and his crew did eventually defeat Nomad in the end.
+
+Star Trek and Nomad led me to pursuing my degree in Electrical Engineering.
 
 Links:
 - [Star Trek episode “The Changeling” on Memory Alpha](https://memory-alpha.fandom.com/wiki/The_Changeling_(episode))
